@@ -1,0 +1,18 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{"type": "Feature", "geometry": {"type": "Point", "coordinates": [10.0, 5.0]}},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[10.2, 1.0],
+					[10.3, 2.0],
+					[10.4, 2.5]
+				]
+			},
+			"properties": {"route": "341A7", "class": "local"}
+		}
+	]
+}

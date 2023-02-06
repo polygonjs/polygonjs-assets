@@ -1,0 +1,8 @@
+{
+	"type": "Feature",
+	"geometry": {"type": "Point", "coordinates": [10.0, 20.0]},
+	"properties": {
+		"signpost": "5",
+		"last_check": "20200701"
+	}
+}

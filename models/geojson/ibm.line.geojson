@@ -1,0 +1,7 @@
+{
+	"type": "Linestring",
+	"coordinates": [
+		[10.0, 11.2],
+		[10.5, 11.9]
+	]
+}
